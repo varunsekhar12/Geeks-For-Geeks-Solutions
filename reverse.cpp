@@ -1,6 +1,5 @@
 #include<iostream.h>
-using namespace std;
-int main() 
+void main() 
 {
     int a[100],b,n,i,size,j;
     std::cin>>n;
